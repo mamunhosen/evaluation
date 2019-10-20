@@ -1,0 +1,6 @@
+[submodule "js-evaluation"]
+	path = js-evaluation
+	url = https://github.com/hossain-mamun/js-evaluation.git
+[submodule "mysql-evaluation"]
+	path = mysql-evaluation
+	url = https://github.com/hossain-mamun/mysql-evaluation.git

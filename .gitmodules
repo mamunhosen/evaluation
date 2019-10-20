@@ -4,3 +4,6 @@
 [submodule "mysql-evaluation"]
 	path = mysql-evaluation
 	url = https://github.com/hossain-mamun/mysql-evaluation.git
+[submodule "php-evaluation"]
+	path = php-evaluation
+	url = https://github.com/hossain-mamun/php-evaluation.git
